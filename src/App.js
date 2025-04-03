@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import { NavLink, Route, Routes } from "react-router-dom";
 import Support from "./components/Support";
